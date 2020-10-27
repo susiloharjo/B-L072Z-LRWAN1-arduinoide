@@ -1,6 +1,6 @@
 # B-L072Z-LRWAN1-arduinoide
 
-Sample arduino sketch for STM32 LoRa Discovery Kit (B-L072Z-LRWAN1) 
+Simple ABP arduino sketch for STM32 LoRa Discovery Kit (B-L072Z-LRWAN1) 
 
 You need lorawan library and also cayenne lpp for running this code and also follow step here to install board 
 
